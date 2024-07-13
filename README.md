@@ -1,5 +1,5 @@
-Data Preprocessing and Analysis Report
-Data Preprocessing
+<strong>Data Preprocessing and Analysis Report<strong><br>
+<b>Data Preprocessing<b> <br>
 Loading and Initial Inspection
 The first step in our data preprocessing involved loading the original CSV file (loan_dataset.csv) into a Pandas DataFrame.
 This was followed by creating a copy of this DataFrame, named df_filled, which was used for filling null values.
