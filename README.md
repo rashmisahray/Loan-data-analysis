@@ -25,9 +25,10 @@ After identifying the columns with null values and their respective counts, vari
 <br>The DataFrame with filled null values is saved to a new CSV file 'Loan_null_removed.csv'.<br>
 
 <br>
+
 # Outlier Detection and Handling
 
-# Loading and Identifying Numerical Columns:<br>
+Loading and Identifying Numerical Columns:<br>
 
 <br>•	The new CSV file 'Loan_null_removed.csv' is loaded.
 <br>•	Numerical columns are identified for outlier handling.
